@@ -1,0 +1,6 @@
+[submodule "ReviewTwits_frontend"]
+	path = ReviewTwits_frontend
+	url = https://github.com/DevelopLife/ReviewTwits_frontend
+[submodule "ReviewTwits_backend"]
+	path = ReviewTwits_backend
+	url = https://github.com/DevelopLife/ReviewTwits_backend
